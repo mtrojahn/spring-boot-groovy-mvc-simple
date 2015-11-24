@@ -1,1 +1,5 @@
-# Created by .ignore support plugin (hsz.mobi)
+/build
+/gradle
+/.idea
+/spring-boot-groovy-mvc-simple.iml
+/.gradle
